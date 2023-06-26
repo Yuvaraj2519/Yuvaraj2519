@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 ## Some realtime stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj2519&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj2519)
 
 ![Yuvaraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvaraj2519)
