@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [React](https://react.dev/)
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj2319)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj2519)
 
 ![Yuvaraj's github stats](https://github-readme-stats.vercel.app/api?username=Yuvaraj2519)   
