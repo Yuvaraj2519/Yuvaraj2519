@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - :book: I’m currently learning [React](https://react.dev/)
 - :speech_balloon: Talk with me in [Here](https://github.com/Yuvaraj2519/Yuvaraj2519/issues)
 
+  ## Skill sets sounds good right 😜
+
 - `Programming Language` - :tea: [Java](https://www.java.com/en/), :snake: [Python](https://www.python.org/)
-- `Framwork/Library`
-- `DataBase`
-- `Operating System`
-- `Cloud Platform`
+- `Framwork/Library` - :leaves: [Spring Boot](https://spring.io/), :snowflake: [React](https://react.dev/)
+- `DataBase` - :o: [Oracle DB](https://www.oracle.com/in/), :evergreen_tree: [Mongo DB](https://www.mongodb.com/)
+- `Operating System` - :penguin: [Linux/Unix](https://www.linux.org/), :computer: [Window](https://www.microsoft.com/en-us/windows)
+- `Cloud Platform` - :large_orange_diamond: [AWS](https://aws.amazon.com/) , :cloud: [GCP](https://cloud.google.com/)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj2519)
 
