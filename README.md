@@ -8,9 +8,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [TCS](https://www.tcs.com/)
-- 🌱 I’m currently learning [React](https://react.dev/)
+- :briefcase: I’m currently working on [TCS](https://www.tcs.com/)
+- :book: I’m currently learning [React](https://react.dev/)
+- :speech_balloon: Talk with me in [Here](https://github.com/Yuvaraj2519/Yuvaraj2519/issues)
 
+- `Programming Language` - :tea: [Java](https://www.java.com/en/), :snake: [Python](https://www.python.org/)
+- `Framwork/Library`
+- `DataBase`
+- `Operating System`
+- `Cloud Platform`
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj2519)
 
